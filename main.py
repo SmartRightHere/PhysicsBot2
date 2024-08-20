@@ -4,7 +4,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, types
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 
-API_TOKEN = '5498576111:AAEvfnKhVzQCbbxQH6ket8Qx-J-gduxZoTc'  # токен
+API_TOKEN = 'token'
 
 logging.basicConfig(level=logging.INFO)
 
